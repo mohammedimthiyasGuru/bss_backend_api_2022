@@ -12,7 +12,7 @@
     "express-fileupload": "^1.1.7-alpha.3",
     "html-pdf": "^3.0.1",
     "http-errors": "~1.6.3",
-    "jade": "^0.31.2",
+    "jade": "^1.11.0",
     "moment": "^2.26.0",
     "mongoose": "^5.9.10",
     "mongoose-timestamp": "^0.6.0",
